@@ -2,4 +2,4 @@
 
 Hallo mensen die dit lezen!
 
-Dit is een test dat ik weet hoe github werkt.
+Dit is een test dat ik weet hoe github werkt. En ook goed werkt
